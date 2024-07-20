@@ -1,8 +1,7 @@
 // File: System.cpp
 // Author: DP-Dev
 // Implementation of a class to handle SDL.
-#include "System.hpp"
-#include <SDL2/SDL_main.h>
+#include <CPGE/System.hpp>
 using namespace CPGE;
 
 // Defines the instance of the class.

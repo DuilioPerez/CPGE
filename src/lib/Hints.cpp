@@ -1,7 +1,7 @@
 // File: Hints.cpp
 // Author: DP-Dev
 // Implementation of the class Hints.
-#include "Hints.hpp"
+#include <CPGE/Hints.hpp>
 using namespace CPGE;
 using namespace std;
 
