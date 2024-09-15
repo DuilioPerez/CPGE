@@ -414,5 +414,8 @@ namespace CPGE
     /// @brief Private default constructor.
     Log() = default;
   };
+
+  // Reference to the unique instance of the class.
+  extern Log &theLog;
 } // namespace CPGE
 #endif
